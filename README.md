@@ -1,8 +1,8 @@
-# ESS-DIVE Leaf-level gas exchange data and metadata reporting format v1.0.3
+# ESS-DIVE Leaf-Level Gas Exchange Data and Metadata Reporting Format v1.1.0
 
 This documentation contains guidance for the content and format of leaf-level gas exchange data and metadata. The reporting format comprises defined variable names and units for data tables, a methods metadata template, and instrument details template and guidance on inclusion of other related data and metadata.   
 
-## About the leaf-level gas exchange data and metadata reporting format
+## About the Leaf-Level Gas Exchange Data and Metadata Reporting Format
 
 The ESS-DIVE leaf-level gas exchange data and metadata reporting format has been developed to meet the needs of the community for a unified reporting format. This initial effort covers the most common variables and provides templates for metadata reporting. Additional reporting requirements have been developed for seven common data types: 
 * Survey
@@ -25,6 +25,19 @@ Other documents to get started:
 - [Instrument details template](https://github.com/ess-dive-community/essdive-leaf-gas-exchange/blob/master/templates/instrumentDetailsTemplate.xlsx): Download spreadsheet template to record instrument details. 
 
 ---
+## Updates in v1.1.0
+This update includes restructuring of the GitHub repository, updated Instructions, suggested file naming conventions, addition of standard data dictionaries, and inclusion of additional required variables for the Survey datatype. 
+
+Details are as follows:
+- The GitHub file structure has been reorganized to remove the “docs” folder and display all informational content in the home directory. Files have been renamed using a numbering system that corresponds with steps in the Instructions. 
+- The Instructions have been rewritten to align with the guide and definition documents. 
+- Metadata template file names have been adjusted to meet ESS-DIVE requirements.
+- Suggested file naming conventions have been added to the Instructions and Guides documents.
+- For the Survey data type, Tair and VPDleaf have been added as Required Variables. 
+- Data dictionary (dd) files have been added to Templates for methods metadata, instrument details, LI-COR6400 output, LI-COR6800 output and the reporting format defined variables.
+
+
+
 ## Updates in v1.0.3
 
 Added a section to the Instructions on how to use this format in combination with other reporting formats to provide guidance on missing value, temporal and spatial data types.
@@ -50,8 +63,8 @@ The format was developed with input and feedback of over 80 subject experts, inc
 
 For further description of the reporting format, and the development process, refer to:
 
-Ely et al (2021). A reporting format for leaf-level gas exchange data and metadata. Ecological Informatics. https://doi.org/10.1016/j.ecoinf.2021.101232 
+Ely K.S. et al (2021). A reporting format for leaf-level gas exchange data and metadata. Ecological Informatics. Volume 61.  [https://doi.org/10.1016/j.ecoinf.2021.101232](https://doi.org/10.1016/j.ecoinf.2021.101232)
 
 ## Recommended citation
 
-Ely K.S., Rogers A, Crystal-Ornelas R (2020): ESS-DIVE reporting format for leaf-level gas exchange data and metadata. Environmental Systems Science Data Infrastructure for a Virtual Ecosystem. doi:10.15485/1659484
+Ely K.S., Rogers A, Crystal-Ornelas R (2020). ESS-DIVE reporting format for leaf-level gas exchange data and metadata. Environmental Systems Science Data Infrastructure for a Virtual Ecosystem (ESS-DIVE), ESS-DIVE repository. Dataset. [https://data.ess-dive.lbl.gov/datasets/doi:10.15485/1659484](https://data.ess-dive.lbl.gov/datasets/doi:10.15485/1659484)
