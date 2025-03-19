@@ -3,6 +3,7 @@
 This page provides guidelines and expectations for completion of the methods metadata template. Note that while defined vocabulary terms are suggested, most variables may be complete with free text entries if required.
 
 The main purpose of this metadata collection will be to aid data search with some common discriminators. It is not meant to be a substitute for a complete experimental description. Additional information should be included as methods supplements tables, or in a methods text file. 
+
 Fill in the gas_exchange_methods_template file and save as a csv file type following the naming convention of “*_methods.csv”. Include the provided data description file (gas_exchange_methods_dd.csv) in the dataset. A separate methods metadata file should be created for each data type included in the dataset.
 
 
