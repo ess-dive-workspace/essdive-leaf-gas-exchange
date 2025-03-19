@@ -1,11 +1,21 @@
-# ESS-DIVE Leaf-level gas exchange data and metadata reporting format
+# ESS-DIVE Leaf-Level Gas Exchange Data and Metadata Reporting Format
 
 * [Overview](README.md)    
 * [Instructions](instructions.md)    
-* [Methods metadata guide](methodsMetadataGuide.md)    
-* [Guide to data types and required protocol details](dataTypesProtocols.md)    
-* Documents
-    * [Required variables for data tables](docs/requiredVariables.md)
-    * [Defined variables](docs/definedVariables.md)
-    * [Instrument output translation](docs/instrumentOutputTranslation.md)
-    * [Guide to preparing supplementary metadata for leaf-level gas exchange data](docs/supplementaryMetadataGuide.md)    
+* [Defined variables](1a_definedVariables.md)
+* [Required variables for data tables](1b_requiredVariables.md)
+* [Instrument output guide](2_instrumentOutputGuide.md)
+* [Methods metadata guide](3a_methodsMetadataGuide.md)    
+* [Guide to data types and required protocol details](3b_dataTypesProtocols.md)
+* [Instrument details guide](4_instrumentDetailsGuide.md)
+* [Guide to preparing supplementary metadata for leaf-level gas exchange data](5_supplementaryMetadataGuide.md)
+* [Instrument output translation](instrumentOutputTranslation.md)
+* [License](LICENSE.md)
+* Templates
+    * [Gas exchange methods template](/templates/gas_exchange_methods_template.xlsx)
+    * [Gas exchange methods data dictionary](/templates/gas_exchange_methods_dd.csv)
+    * [Instrument details template](/templates/instrument_details_template.xlsx)
+    * [Instrument details data dictionary](/templates/instrument_details_dd.csv)
+    * [Leaf gas exchange defined variables data dictionary](/templates/leaf_gasex_defined_variables_dd.csv)
+    * [LICOR6400 v6.2 data dictionary](/templates/LICOR6400_v6.2_dd.csv)
+    * [LICOR6800 v2.1 data dictionary](/templates/LICOR6800_v2.1_dd.csv)
