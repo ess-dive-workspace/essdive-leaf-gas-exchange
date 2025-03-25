@@ -2,7 +2,7 @@
 
 These Instructions are intended to step through the various components of a dataset. They refer to numbered Guide documents, and provided templates and data description files (in [templates](templates)). The order of completion is not important. A dataset containing leaf-level gas exchange data should include:
 
-1. Data table(s). Assemble data tables, using the [defined variableNames and variableUnits](1a_definedVariables.md). If the data is a described data type, then the data table must include the required variables for that [data type](3b_dataTypesProtocols.md). Data tables may also include additional variables, and indicators of uncertainty if appropriate. It is recommended that data files are given unique, descriptive names that include relevant information such as date, place, experiment and/or species, and the data type. e.g. 2024_Abisko_ACi.csv, SOYFace_2009_survey.csv.
+1. Data table(s). Assemble data tables, using the [defined variableNames and variableUnits](1a_definedVariables.md). If the data is a described data type, then the data table must include the [required variables](1b_requiredVariables.md) for that [data type](3b_dataTypesProtocols.md). Data tables may also include additional variables, and indicators of uncertainty if appropriate. It is recommended that data files are given unique, descriptive names that include relevant information such as date, place, experiment and/or species, and the data type. e.g. 2024_Abisko_ACi.csv, SOYFace_2009_survey.csv.
 
 2. Complete instrument output. See [2_instrumentOutputGuide.md](2_instrumentOutputGuide.md) for further details.
 
