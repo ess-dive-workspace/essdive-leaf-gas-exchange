@@ -4,7 +4,7 @@ This documentation contains guidance for the content and format of leaf-level ga
 
 ## About the Leaf-Level Gas Exchange Data and Metadata Reporting Format
 
-The ESS-DIVE leaf-level gas exchange data and metadata reporting format has been developed to meet the needs of the community for a unified reporting format. This initial effort covers the most common variables and provides templates for metadata reporting. Additional reporting requirements have been developed for seven common data types: 
+The ESS-DIVE leaf-level gas exchange data and metadata reporting format has been developed to meet the needs of researchers for a unified reporting format. This initial effort covers the most common variables and provides templates for metadata reporting. Additional reporting requirements have been developed for seven common data types: 
 * Survey
 * Response of photosynthesis to intercellular CO&#8322; concentration (ACi curves)
 * Photosynthetic parameters derived from ACi curves
@@ -21,8 +21,8 @@ Instructions for how to use this reporting format:
 - [Leaf-level gas exchange reporting format instructions](instructions.md) 
 
 Other documents to get started:
-- [Methods metadata template](https://github.com/ess-dive-community/essdive-leaf-gas-exchange/blob/master/templates/methodsMetadataTemplate.xlsx): Download spreadsheet template for recording experiment and methods metadata. 
-- [Instrument details template](https://github.com/ess-dive-community/essdive-leaf-gas-exchange/blob/master/templates/instrumentDetailsTemplate.xlsx): Download spreadsheet template to record instrument details. 
+- [Methods metadata template](templates/methodsMetadataTemplate.xlsx): Download spreadsheet template for recording experiment and methods metadata. 
+- [Instrument details template](templates/instrumentDetailsTemplate.xlsx): Download spreadsheet template to record instrument details. 
 
 ---
 ## Updates in v1.1.0
@@ -34,19 +34,11 @@ Details are as follows:
 - Metadata template file names have been adjusted to meet ESS-DIVE requirements.
 - Suggested file naming conventions have been added to the Instructions and Guides documents.
 - For the Survey data type, Tair and VPDleaf have been added as Required Variables. 
-- Data dictionary (dd) files have been added to Templates for methods metadata, instrument details, LI-COR6400 output, LI-COR6800 output and the reporting format defined variables.
-
-
-
-## Updates in v1.0.3
-
-Added a section to the Instructions on how to use this format in combination with other reporting formats to provide guidance on missing value, temporal and spatial data types.
-
-See Releases for complete versioning details. 
+- Data dictionary (dd) files have been added to Templates for methods metadata, instrument details, LI-COR 6400 output, LI-COR 6800 output and the reporting format defined variables. 
 
 ## How to contribute 
 
-This leaf-level gas exchange data reporting format is evolving and growing to meet the needs of the community. Feedback and new contributions are welcome, and can be made by submitting an [issue or feedback](https://github.com/ess-dive-community/essdive-leaf-gas-exchange/issues/new/choose).  
+This leaf-level gas exchange data reporting format is evolving and growing to meet the needs of researchers. Feedback and new contributions are welcome, and can be made by submitting an [issue or feedback](https://github.com/ess-dive-workspace/essdive-leaf-gas-exchange/issues/new/choose).  
 
 The issue templates we use are modeled from that provided by Darwin Core:
 Darwin Core maintenance group, Biodiversity Information Standards (TDWG) (2014). Darwin Core. Zenodo. https://doi.org/10.5281/zenodo.592792
