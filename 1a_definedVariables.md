@@ -1,4 +1,4 @@
-## Defined variables
+# Defined variables
 This table shows variable names and units that should be used in data tables. Expected range values cover most plants for standard experimental conditions and may be used as a guide for quality checking.
 
 **variableName**|**variableUnit**|**variableDescription**|**expectedValueRangeMin**|**expectedValueRangeMax**

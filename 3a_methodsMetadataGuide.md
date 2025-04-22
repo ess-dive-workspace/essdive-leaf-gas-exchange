@@ -4,6 +4,8 @@ This page provides guidelines and expectations for completion of the methods met
 
 The main purpose of this metadata collection will be to aid data search with some common discriminators. It is not meant to be a substitute for a complete experimental description. Additional information should be included as methods supplements tables, or in a methods text file. 
 
+Fill in the [gas_exchange_methods_template file](templates/gas_exchange_methods_template.xlsx) and save as a csv file type following the naming convention of “*_methods.csv”. Include the provided data description file ([gas_exchange_methods_dd.csv](templates/gas_exchange_methods_dd.csv)) in the dataset. A separate methods metadata file should be created for each data type included in the dataset.
+
 
 ---  
 ## Methods Metadata Content - Click links below for more details
