@@ -36,7 +36,7 @@ Fill in the [gas_exchange_methods_template file](templates/gas_exchange_methods_
 
 ---
 
-[experimentalManipulation*](#experimentalmanipulation)  | 
+[experimentalTreatment*](#experimentalTreatment)  | 
 [plantAge*](#plantage) | 
 [leafAge*](#leafage)
 
@@ -164,8 +164,8 @@ Fill in the [gas_exchange_methods_template file](templates/gas_exchange_methods_
 
 ---
 
-### experimentalManipulation
-|**Metadata Element**|experimentalManipulation|
+### experimentalTreatment
+|**Metadata Element**|experimentalTreatment|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**Required, Recommended, or Optional**|`required`|
 |**Description**|Indicate if any samples were subject to a manipulation. For naturally grown plants, or cultivated plants with standard fertilizer and pesticide application across all samples, select "none". Provide further treatment details in methodsSupplements tables. |
