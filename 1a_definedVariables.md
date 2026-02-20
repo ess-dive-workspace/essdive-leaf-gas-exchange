@@ -53,7 +53,7 @@ Theta|-|Empirical convexity parameter derived from the non-rectangular hyperboli
 TPU|µmol m⁻² s⁻¹|Triose phosphate utilization rate per leaf area at measurement temperature| | 
 TPU25|µmol m⁻² s⁻¹|Triose phosphate utilization rate per leaf area at the reference temperature 25°C| | 
 Vcmax|µmol m⁻² s⁻¹|Maximum rate of carboxylation at measurement temperature, calculated assuming infinite mesophyll conductance, i.e. apparent *Vcmax*|0|500
-Vcmax25|µmol m⁻² s⁻¹|Maximum rate of carboxylation, at the reference temperature 25°C, calculated assuming infinite mesophyl conductance, i.e. apparent *Vcmax*|0|500
+Vcmax25|µmol m⁻² s⁻¹|Maximum rate of carboxylation, at the reference temperature 25°C, calculated assuming infinite mesophyll conductance, i.e. apparent *Vcmax25*|0|500
 Vpmax|µmol m⁻² s⁻¹|Phosphoenolpyruvate (PEP) saturated PEP carboxylation at measurement temperature| | 
 WUEi|µmol mol⁻¹|Intrinsic water use efficiency. Net CO&#8322; exchange per leaf area divided by stomatal conductance to water vapor per leaf area| | 
 **Constants**| | | | 
